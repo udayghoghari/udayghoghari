@@ -11,8 +11,8 @@
 - 🎯 **Goal:** Becoming a Full-Stack Developer
 - 🌱 **Currently Learning:** JavaScript, React, Node.js
 - 💡 **Passionate about:** Building web apps and solving real-world problems
-- 📫 **Reach me at:** *(add your email here)*
-- 🌍 **Based in:** *(add your city/country)*
+- 📫 **Reach me at:** *udayghoghari10@gmail.com*
+- 🌍 **Based in:** *(Panvel, Maharashtra, India)*
 
 ---
 
