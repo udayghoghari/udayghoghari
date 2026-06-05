@@ -77,7 +77,7 @@
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/uday-ghoghari" target="_blank">
+  <a href="https://www.linkedin.com/in/uday-ghoghari" target="[_blank](https://www.linkedin.com/in/uday-ghoghari-685092194/?skipRedirect=true)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
